@@ -116,3 +116,6 @@ This work addresses fundamental challenges in:
 **Course**: CS771 - Introduction to Machine Learning (Autumn 2024)  
 **Institution**: Indian Institute of Technology Kanpur  
 **Submission Date**: November 22, 2024
+
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
